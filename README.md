@@ -9,3 +9,6 @@ using real life text data we are constructing a spam/ham classifier of the messa
 We are creating a spam ham detector using machine learning with text.
 We know that machine learning model requires numerical data to compute and find the results therefore we are first vectorizing the
 textual data into vectors and than feeding it to our models.
+I have used Naive bayes and Logestic regression for it depending on your machine you can switch to either(LR is faster than Naive Bayes.
+
+
